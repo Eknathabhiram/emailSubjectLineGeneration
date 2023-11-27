@@ -10,3 +10,4 @@ Second Notebook has steps to validate the generation using bleu score.
 * Try to implement the architecture mentioned in "This Email Could Save Your Life: Introducing the Task of Email Subject
   Line Generation(https://arxiv.org/pdf/1906.03497.pdf)" paper.
 * change validation metric from bleu as it is not suitable for this task
+* Try to create a chrome extension out of this.
